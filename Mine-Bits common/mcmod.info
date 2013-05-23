@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MBs",
+  "name": "Mine-Bits",
+  "description": "Bits and Bobs for your Minecraft",
+  "version": "0.0.1",
+  "url": "None as of yet.",
+  "updateUrl": "",
+  "authorList": [
+    "SirMushroomPanda"
+  ],
+  "credits": "By SirMushroomPanda, Based on Pahimar's Let's Mod.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
