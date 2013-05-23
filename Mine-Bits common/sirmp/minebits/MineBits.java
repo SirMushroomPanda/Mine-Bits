@@ -1,5 +1,7 @@
 package sirmp.minebits;
 
+import sirmp.minebits.block.ModBlocks;
+import sirmp.minebits.item.ModItems;
 import sirmp.minebits.lib.Reference;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.PreInit;
@@ -14,6 +16,12 @@ public class MineBits {
     
     @PreInit
     public void PreInit(FMLPreInitializationEvent event) {
+        
+        // Initialize mod blocks
+        ModBlocks.init();
+
+        // Initialize mod items
+        ModItems.init();
         
     }
     
